@@ -1,0 +1,7 @@
+flask
+flask-restful
+openai
+python-dotenv
+llama-index
+SQLAlchemy
+mysql-connector-python
